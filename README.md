@@ -1,3 +1,9 @@
+This is a Progressive Web Application(PWA) made with React. It is a very simple app which shows current weather of any city in the world. It also shows a custom offline page when user is offline.
+
+## Live Site: 
+[Weather App](https://cocky-mclean-5505ef.netlify.app)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
